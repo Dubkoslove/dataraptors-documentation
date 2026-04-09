@@ -1,3 +1,8 @@
-# My Markdown page
+---
+id: my-doc-id
+title: My document title
+description: My document description
+slug: /my-custom-url
+---
 
-This is a Markdown page
+Markdown content
